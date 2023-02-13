@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+    
+}
+body{
+  text-align:center;
+    margin: auto auto;
+    font-family:Georgia
+}
+h1{
+    text-align:center;
+    margin: 10px auto;
+    font-family:cursive
+}
+
+
+img{
+    width:500 px;
+    height:500 px;
+    margin:10px auto
+}
+article{
+    text-align: left;
+    display: inline-block;
+    background-color: #eee;
+    border-radius: 20px;
+    border:black 3px;
+
+}
